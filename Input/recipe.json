@@ -1,0 +1,18 @@
+{
+  "name": "My Theme",
+  "slug": "my-theme",
+  "author": "Author Name",
+  "authorUri": "https://example.com",
+  "description": "A clean, simple WordPress FSE theme.",
+  "version": "1.0.0",
+  "composerVendor": "vendor",
+  "colors": {
+    "primary": "#2563eb",
+    "secondary": "#1e40af",
+    "accent": "#3b82f6",
+    "background": "#f8f9fa",
+    "dark-background": "#121212",
+    "text": "#333333",
+    "alt-text": "#ffffff"
+  }
+}
