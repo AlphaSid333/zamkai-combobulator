@@ -1,0 +1,87 @@
+== {theme.name} ==
+
+Contributors: {theme.author}
+Requires at least: 6.9
+Tested up to: 6.9
+Requires PHP: 5.7
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+== Description ==
+
+Theme from the Zamkai Master, created with simplicity in mind. A perfect starting point for website creators that want a basic theme which won't tax their web server. 
+This theme has basic patterns and layouts that can help you jump start with basic WordPress blocks. The theme just defines templates, palettes and patterns. No 'functions.php' here, I have left functionality to the plugins.
+
+Follow me on Twitter: https://x.com/sidgrill
+Subscribe to TechGrill: https://youtube.com/@TheTechGrill
+Subscribe to ThemeGrill: https://youtube.com/@ThemeGrillOfficial
+
+Github repo: https://github.com/AlphaSid333/zamkai-fse
+(You may submit PR's if interested :D)
+
+== Changelog ==
+
+= 1.1.4 =
+* Theme Description update
+
+= 1.1.3 =
+* Finaly LIVE on .org!! 
+* Final changes before getting live on .org
+
+= 1.1.2 =
+* Further .org translation and compatibility fixes
+* Added skip links on templates
+
+= 1.1.1 =
+* .org submission related additions.
+
+= 1.1 =
+* .org security fixes
+
+= 1.0.0 =
+* Initial release
+
+
+== Copyright ==
+
+{theme.name} WordPress Theme, (C) 2025 {theme.author}
+Zamkai FSE is distributed under the terms of the GNU GPL.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details: http://www.gnu.org/licenses/gpl-2.0.html 
+
+== Resources ==
+
+* All fonts provided by the Google Fonts directory and are under the SIL Open Font License
+
+  Google Font: Instrument Sans
+  Copyright, The The Instrument Sans Project Authors
+  License: http://scripts.sil.org/OFL
+  Source: https://fonts.google.com/specimen/Instrument+Sans 
+
+  Google Font: Instrument Serif
+  Copyright, The The Instrument Serif Project Authors
+  License: http://scripts.sil.org/OFL
+  Source: https://fonts.google.com/specimen/Instrument+Serif
+
+* The Following images in this theme are original works created by the theme author, including those generated with AI tools. They are released under the CC0 license. https://creativecommons.org/publicdomain/zero/1.0/
+
+    Image: hero.png
+    Source: https://zamkai.com/
+    License: https://zamkai.com/about/#license-image 
+
+    Image: poem.png
+    Source: https://zamkai.com/2025/09/15/until-the-dust-settled/
+    License: https://zamkai.com/about/#license-image 
+
+    Image: poem-2.png
+    Source: https://zamkai.com/2024/03/16/the-zamkai-odyssey/
+    License: https://zamkai.com/about/#license-image 

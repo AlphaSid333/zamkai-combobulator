@@ -1,0 +1,15 @@
+{
+    "name": "{theme.composerVendor}/{theme.slug}",
+    "autoload": {
+        "psr-4": {
+            "{theme.namespace}\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SidTGV",
+            "email": "siddhi.sharma@themegrill.com"
+        }
+    ],
+    "require": {}
+}
